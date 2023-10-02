@@ -1,17 +1,24 @@
-# The Innkeeper's Tale 🍻
-
-## Introduction
-Welcome to "The Innkeeper's Tale," a solo journaling RPG set in a bustling adventurer hub. In this game, you are the innkeeper—or perhaps the Mayor—navigating through economic challenges and meeting the demands of rugged adventurers.
+# Innkeeper: A Journaling Solo RPG for West Marches Campaigns
+## About
+Innkeeper is a journaling solo RPG designed to help you create a vivid and intriguing West Marches Campaign setting. Whether you're a game master in need of a new world, or a writer looking for a unique setting, Innkeeper provides the prompts and structure to bring your ideas to life.
 
 ## Features
-- Rules-light: Get started easily!
-- Dice and/or Cards: Use what you have!
+- Generate the hub of your adventure: the Inn
+- Create detailed regional history
+- Establish nodes of interests such as ruins, fortresses, and other landmarks
+- No map required, just your imagination and the prompts provided
+## How to Use
+1. Clone this repository or download as a zip file.
+2. Open Innkeeper.md (or whatever your main file is).
+3. Follow the prompts and let your imagination run wild!
+## Mental Health Reminder
+Your well-being is important. Feel free to take breaks and reflect on your creative process. Sometimes, the best ideas come to you when you step away for a bit.
 
-## How to Play
-For a detailed guide on how to play, check out [How to Play](HowToPlay.md).
-
-## Contribution Guidelines
-Want to contribute? Great! Check out the [Contribution Guide](CONTRIBUTING.md) to see how you can help.
+## Contributing
+We welcome contributions! Please see CONTRIBUTING.md for details on how to contribute to this project.
 
 ## License
-This project is licensed under the [CC BY-SA 4.0](LICENSE) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the CC BY 4.0 License. See LICENSE for more details.
+
+## Credits
+Created by Egil Töllner
