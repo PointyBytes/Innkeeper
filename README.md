@@ -21,4 +21,4 @@ We welcome contributions! Please see CONTRIBUTING.md for details on how to contr
 This project is licensed under the CC BY 4.0 License. See LICENSE for more details.
 
 ## Credits
-Created by Egil Töllner
+Created by Egil Töllner (Me)
