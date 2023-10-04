@@ -3,16 +3,11 @@ By Egil Töllner
 
 ---
 
-## Table of Contents
-
 ### Introduction
-My thought is that this is book (let's not kid ourselves pamflet) is for those who want to create a frontier setting with the classical inn as a hub for the adventurers who exploar the area.
-I want to create a set of prompts that coaxes this area out of your imagination and spur you to write about it. My hope is that you find it useful and create the basis for your setting that seams lived in and with a history.
-I dont want to expect anything from you other than you hope to create this setting. I hope to be as inclusive as I can being a white midle aged cis-man. If I fail in this please tell me, and if I do it right tell everyone.
+This book—let's be honest, it's more of a pamphlet—is aimed at game masters, writers, and anyone else interested in creating a compelling frontier setting where the classic inn serves as a hub for adventurers exploring the region. I've designed a series of prompts to help you flesh out this world in a way that feels both lived-in and steeped in history. While I can't claim to represent every perspective (as a white, middle-aged, cis-man), I've striven to be as inclusive as possible. If you think I've fallen short, please let me know; if you think I've succeeded, tell everyone!
 
 ### Foreword
-I found myself looking into Solo RPGs and found journaling RPGs. Not knowing anything about it I dived in headfirst and said to myself that this is something I want to cut my teeth on and try.
-I had tried Four Against Darkness but never a journaling solo rpg. Remembering how I had started to plan a West Marshes style fantasy campaign I remembered how I searshed for material like this. Creating the setting around the vast map the players are going to exploar.
+I was first drawn to the world of Solo RPGs through a game called "Four Against Darkness," which piqued my interest but didn't fully satisfy my creative itch. Upon discovering journaling RPGs, I dove in headfirst, and I realized that this was the perfect platform to cut my teeth on. This brought me back to the time I was planning a campaign in the style of "West Marches"—a sandbox adventure setting—and I found myself wishing there were more resources for crafting the rich, expansive worlds these kinds of games inhabit. This is my contribution to that space.
 
 ---
 
@@ -23,10 +18,10 @@ I had tried Four Against Darkness but never a journaling solo rpg. Remembering h
 
 ### Step-by-Step Guide
 #### Creating a Safe Zone
-  The inn is the only safe zone in this frontier land. Adventurers come here to hang up their swords and get ut of their armour. This safe zone is their oasis where they can kick back and lick their wounds befor they gear up and head out again.
+The inn is the only safe zone in this frontier land. Adventurers come here to hang up their swords and get out of their armor. This safe zone is their oasis where they can kick back and lick their wounds before they gear up and head out again.
 
 - How long has this building been here?
-- Did it begin it's life as something else and later repourposed as an inn?
+- Did it begin its life as something else and later repurposed as an inn?
 - Who runs it?
 - How long have they been here?
 
@@ -34,9 +29,9 @@ I had tried Four Against Darkness but never a journaling solo rpg. Remembering h
 Is the inn the only building in the safe zone or are there other buildings here?
 
 #### Designing the Region's History
-  - Prompts and examples.
+- Prompts and examples.
 #### Node Design and Connections
-  - Prompts and examples.
+- Prompts and examples.
 
 ### Examples and Case Studies
 - Real or hypothetical examples of how one could utilize your guide.
@@ -45,7 +40,7 @@ Is the inn the only building in the safe zone or are there other buildings here?
 - Details on how to use the card deck or other generators if you include those.
 
 ### Monsters and Treasures
-- Include this if relevant for the adventures taking place.
+- Include this if relevant to the adventures taking place.
 
 ---
 
@@ -90,7 +85,6 @@ Is the inn the only building in the safe zone or are there other buildings here?
 ---
 
 ## Contact Information
-I go by PointyBytes on most platforms as you can see below. However, I have a unique name so I you searsh for my name you can find almost everything about me.
 - **Twitter**: [@PointyBytes](https://twitter.com/YourTwitterHandle)
 - **Itch.io**: [PointyBytes](https://pointybytes.itch.io/)
 - **GitHub**: [PointyBytes](https://github.com/PointyBytes)
