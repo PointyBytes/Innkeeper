@@ -14,7 +14,12 @@ I was first drawn to the world of Solo RPGs through a game called "Four Against 
 ## Main Content
 
 ### Basic Concepts
-- An overview of fundamental terms like "West Marches," nodes, journaling RPG, etc.
+In this section, you'll introduce the fundamental terms that the reader will encounter throughout the book. This provides the conceptual framework that will aid in understanding the subsequent chapters.
+
+- **West Marches**: A sandbox-style, player-driven campaign setting often featuring a large, unexplored map.
+- **Nodes**: Key locations or events that serve as hubs for adventures.
+- **Journaling RPG**: A role-playing game that relies heavily on written narrative, often driven by the player themselves.
+
 
 ### Step-by-Step Guide
 #### Creating a Safe Zone
@@ -24,23 +29,52 @@ The inn is the only safe zone in this frontier land. Adventurers come here to ha
 - Did it begin its life as something else and later repurposed as an inn?
 - Who runs it?
 - How long have they been here?
+- What is the inn's backstory? How long has it existed, and has it always been an inn?
+- Who's the innkeeper? Are they originally from this area, or a newcomer who saw the business opportunity?
+
 
 ##### Other buildings
 Is the inn the only building in the safe zone or are there other buildings here?
+- Is there a blacksmith, general store, or perhaps even a hidden temple?
+- How do these other buildings interact with the inn? Are they competitors or complementary?
+
 
 #### Designing the Region's History
-- Prompts and examples.
+Here we will take a deep dive in the adventuring areas history.
+
+- Was the area once the center of a grand civilization that has since fallen?
+- Are there haunted or sacred places?
+
+
+##### What happened?
+Ideas to what hapened to the area befor.
+
 #### Node Design and Connections
-- Prompts and examples.
+In this section we will add some noteworthy sections of the adventuring area. 
+- Are there any mystical groves, ancient ruins, or strategic forts?
+- How do these nodes connect? Is there a hidden path or secret tunnel?
+
 
 ### Examples and Case Studies
-- Real or hypothetical examples of how one could utilize your guide.
+TODO: Go through the book and write an area as an example to include here.
+- A hungry forest. How would this look?
+- A living dungeon?
+- Magically shattered land with odd and wild magical anomalies.
 
 ### Prompts and Generators
 - Details on how to use the card deck or other generators if you include those.
 
 ### Monsters and Treasures
-- Include this if relevant to the adventures taking place.
+
+#### Monsters
+TODO: 
+- List monsters and good resources for monsters.
+- Is there a theam to the monsters? This can make the area feel more cohesive.
+
+#### Treasure
+TODO:
+- Add something about treasures.
+- Is there a big treasure at the heart of the area?
 
 ---
 
