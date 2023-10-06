@@ -25,16 +25,50 @@ In this section, you'll introduce the fundamental terms that the reader will enc
 #### Creating a Safe Zone
 The inn is the only safe zone in this frontier land. Adventurers come here to hang up their swords and get out of their armor. This safe zone is their oasis where they can kick back and lick their wounds before they gear up and head out again.
 
-- How long has this building been here?
-- Did it begin its life as something else and later repurposed as an inn?
-- Who runs it?
-- How long have they been here?
-- What is the inn's backstory? How long has it existed, and has it always been an inn?
-- Who's the innkeeper? Are they originally from this area, or a newcomer who saw the business opportunity?
+#### ♥️ Hearts: Love and Relationships
+| Card Number | Prompt                                                              |
+| ----------- | ------------------------------------------------------------------- |
+| ♥️ Ace       | What love story began at this inn that the locals still talk about? |
+| ♥️ 2         | Are there any special rooms in the inn for honeymooners or couples? |
+| ♥️ 3         | How did the innkeeper meet their significant other?                 |
+| ...         |                                                                     |
+| ♥️ King      | Has a royal ever found love within the walls of this inn?           |
 
+#### ♦️ Diamonds: Wealth and Commerce
+| Card Number | Prompt                                                                   |
+| ----------- | ------------------------------------------------------------------------ |
+| ♦️ Ace       | What is the most expensive item or service offered at the inn?           |
+| ♦️ 2         | Is there a hidden vault where travelers can store their valuables?       |
+| ♦️ 3         | How does the inn attract wealthy patrons?                                |
+| ...         |                                                                          |
+| ♦️ King      | Was the inn ever used for a high-stakes game that changed its ownership? |
+
+#### ♠️ Spades: Secrets and Mysteries
+| Card Number | Prompt                                                                   |
+| ----------- | ------------------------------------------------------------------------ |
+| ♠️ Ace       | Are there any rooms in the inn that are always locked?                   |
+| ♠️ 2         | What's the strangest disappearance or event that has ever happened?      |
+| ♠️ 3         | Does the inn have any secret alliances or rivalries?                     |
+| ...         |                                                                          |
+| ♠️ King      | What legend or myth about the inn is so outrageous that it must be true? |
+
+#### ♣️ Clubs: Conflict and Power
+| Card Number | Prompt                                                               |
+| ----------- | -------------------------------------------------------------------- |
+| ♣️ Ace       | Who holds the most power within the inn's walls?                     |
+| ♣️ 2         | Have there ever been any duels or fights in the inn?                 |
+| ♣️ 3         | Is there a power struggle going on that the guests don't know about? |
+| ...         |                                                                      |
+| ♣️ King      | Has the inn ever served as a military stronghold or hideout?         |
+
+
+
+
+##### The Innkeper
+Who is the innkeper? Are they the only person running the inn or are there more people here? 
 
 ##### Other buildings
-Is the inn the only building in the safe zone or are there other buildings here?
+Is the inn the only building in the safe zone or are there other buildings here? 
 - Is there a blacksmith, general store, or perhaps even a hidden temple?
 - How do these other buildings interact with the inn? Are they competitors or complementary?
 
@@ -47,7 +81,7 @@ Here we will take a deep dive in the adventuring areas history.
 
 
 ##### What happened?
-Ideas to what hapened to the area befor.
+Ideas to what hapened to the area that made it into the adventuring area it is today. 
 
 #### Node Design and Connections
 In this section we will add some noteworthy sections of the adventuring area. 
