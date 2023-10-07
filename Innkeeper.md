@@ -4,10 +4,12 @@ By Egil Töllner
 ---
 
 ### Introduction
-This book—let's be honest, it's more of a pamphlet—is aimed at game masters, writers, and anyone else interested in creating a compelling frontier setting where the classic inn serves as a hub for adventurers exploring the region. I've designed a series of prompts to help you flesh out this world in a way that feels both lived-in and steeped in history. While I can't claim to represent every perspective (as a white, middle-aged, cis-man), I've striven to be as inclusive as possible. If you think I've fallen short, please let me know; if you think I've succeeded, tell everyone!
+This book—let's be candid, it's more of a hyper-focused guide—is aimed at game masters, writers, and the intrepid souls who find themselves juggling both roles. We're delving deep into creating a frontier setting where inns are not just pixelated backgrounds but lively hubs for adventurers. While I cannot represent every perspective, given my background as a white, middle-aged, cis-man, I've made a concerted effort to be as inclusive as possible. Your feedback is essential; if you think I've fallen short, please tell me; if you think I've succeeded, tell everyone!
 
 ### Foreword
-I was first drawn to the world of Solo RPGs through a game called "Four Against Darkness," which piqued my interest but didn't fully satisfy my creative itch. Upon discovering journaling RPGs, I dove in headfirst, and I realized that this was the perfect platform to cut my teeth on. This brought me back to the time I was planning a campaign in the style of "West Marches"—a sandbox adventure setting—and I found myself wishing there were more resources for crafting the rich, expansive worlds these kinds of games inhabit. This is my contribution to that space.
+When I first laid my hands on a copy of "Four Against Darkness," it was like catching a glimpse of an entirely new universe, just waiting to be explored. But it wasn't enough. Then came journaling RPGs, and I was hooked. I found myself harkening back to my plans for a "West Marches" style campaign and wished for more tools to flesh out these expansive worlds. Thus, this book was born.
+
+But beyond this, I want this space to be one that nurtures understanding and acceptance. Mental health is an often-stigmatized topic, but here, we're challenging that stigma. You'll find prompts and discussions that might dig deep into the psyche. If you're a game master, consider discussing themes, tones, and any boundaries with your group before diving into this book. The aim here is not just inclusivity but safety and well-being for everyone at the table. In fact, don't hesitate to reach out to professionals—like your HR representative—on how to manage sensitive issues. After all, while we are crafting worlds, we're also building communities. You are never alone.
 
 ---
 
@@ -18,10 +20,72 @@ In this section, you'll introduce the fundamental terms that the reader will enc
 
 - **West Marches**: A sandbox-style, player-driven campaign setting often featuring a large, unexplored map.
 - **Nodes**: Key locations or events that serve as hubs for adventures.
-- **Journaling RPG**: A role-playing game that relies heavily on written narrative, often driven by the player themselves.
+- **Journaling RPG**: A role-playing game that relies heavily on written narrative, often driven by the players themselves.
 
 
 ### Step-by-Step Guide
+
+### Character Building: The Heart and Soul of Your World
+
+> Note: The prompts for each suit of cards range from darker or more depressing topics (lower cards) to lighter or more uplifting ones (higher cards). Feel free to remove or redraw cards to match the tone you wish for your setting.
+
+#### How to Use This Guide
+- To create a well-rounded character, consider drawing at least one card from each suit.
+- For a more complex character, feel free to draw multiple cards from the same suit.
+
+#### Examples
+- For a hero, focus on drawing cards from the ♥️ Hearts and ♦️ Diamonds suits.
+- For a villain, you may want to concentrate on the ♠️ Spades and ♣️ Clubs suits.
+- For a neutral or support character, try mixing and matching cards from all suits.
+
+#### ♥️ Hearts: Love and Relationships
+| Card Number | Prompt                                                            |
+| ----------- | ----------------------------------------------------------------- |
+| ♥️ Ace       | What dark secret tore this character's family apart?              |
+| ♥️ 2         | Who did this character lose that they're still mourning?          |
+| ♥️ 3         | Have they been in love at all?                                    |
+| ♥️ 4         | Who does your character need to make amends to?                   |
+| ♥️ 5         | Does your character have a lot of friends? If not, why not?       |
+| ...         |                                                                   |
+| ♥️ King      | Has this character ever saved someone they love from great peril? |
+
+#### ♦️ Diamonds: Wealth and Commerce
+| Card Number | Prompt                                                   |
+| ----------- | -------------------------------------------------------- |
+| ♦️ Ace       | Was this character born into debt or poverty?            |
+| ♦️ 2         | Has this character ever been betrayed over money?        |
+| ♦️ 3         | What types of people does your character look down on?   |
+| ...         |                                                          |
+| ♦️ King      | Did this character ever receive a life-changing fortune? |
+
+#### ♠️ Spades: Secrets and Mysteries
+| Card Number | Prompt                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------ |
+| ♠️ Ace       | This character has dabbled in dark arts or dark esoteric knowledge. What led the character to do this? |
+| ♠️ 2         | What secret would this character kill to protect?                                                      |
+| ♠️ 3         | What is the most traumatic event from their childhood?                                                 |
+| ♠️ 4         | What crime did this character commit that they got away with?                                          |
+| ♠️ 5         | What is their most dangerous vice?                                                                     |
+| ♠️ 6         | What is your character's biggest regret?                                                               |
+| ♠️ 7         | What triggers their mental health issues, if they have any?                                            |
+| ♠️ 8         | What is the most selfish thing your character has done?                                                |
+| ♠️ 9         | What would make your character refuse a call to adventure?                                             |
+| ♠️ 10        | What tragedy could they have prevented, but failed to?                                                 |
+| ...         |                                                                                                        |
+| ♠️ King      | What heroic act is this character known for but keeps it a secret?                                     |
+
+#### ♣️ Clubs: Conflict and Power
+| Card Number | Prompt                                                                           |
+| ----------- | -------------------------------------------------------------------------------- |
+| ♣️ Ace       | This character left someone behind during an adventure. Why?                     |
+| ♣️ 2         | What would make them not believe or curse their god?                             |
+| ♣️ 3         | Was this character ever wrongly accused and still carries the stain?             |
+| ♣️ 4         | What's the smallest slight that they've never forgiven?                          |
+| ♣️ 5         | What is the one obstacle between where they are and what they want most in life? |
+| ...         |                                                                                  |
+| ♣️ King      | This character unified or led a divided people.                                  |
+|             |
+
 #### Creating a Safe Zone
 The inn is the only safe zone in this frontier land. Adventurers come here to hang up their swords and get out of their armor. This safe zone is their oasis where they can kick back and lick their wounds before they gear up and head out again.
 
@@ -61,30 +125,24 @@ The inn is the only safe zone in this frontier land. Adventurers come here to ha
 | ...         |                                                                      |
 | ♣️ King      | Has the inn ever served as a military stronghold or hideout?         |
 
-
-
-
-##### The Innkeper
-Who is the innkeper? Are they the only person running the inn or are there more people here? 
-
-##### Other buildings
+##### **Other buildings**
 Is the inn the only building in the safe zone or are there other buildings here? 
 - Is there a blacksmith, general store, or perhaps even a hidden temple?
 - How do these other buildings interact with the inn? Are they competitors or complementary?
 
 
-#### Designing the Region's History
-Here we will take a deep dive in the adventuring areas history.
+#### **Designing the Region's History**
+Here we will take a deep dive into the adventuring area's history.
 
 - Was the area once the center of a grand civilization that has since fallen?
 - Are there haunted or sacred places?
 
 
-##### What happened?
-Ideas to what hapened to the area that made it into the adventuring area it is today. 
+##### **What happened?**
+Ideas as to what happened to the area that made it into the adventuring area it is today. 
 
-#### Node Design and Connections
-In this section we will add some noteworthy sections of the adventuring area. 
+#### **Node Design and Connections**
+In this section, we will add some noteworthy sections of the adventuring area. 
 - Are there any mystical groves, ancient ruins, or strategic forts?
 - How do these nodes connect? Is there a hidden path or secret tunnel?
 
@@ -103,7 +161,7 @@ TODO: Go through the book and write an area as an example to include here.
 #### Monsters
 TODO: 
 - List monsters and good resources for monsters.
-- Is there a theam to the monsters? This can make the area feel more cohesive.
+- Is there a theme to the monsters? This can make the area feel more cohesive.
 
 #### Treasure
 TODO:
