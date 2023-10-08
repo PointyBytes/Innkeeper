@@ -46,17 +46,31 @@ In this section, you'll introduce the fundamental terms that the reader will enc
 | ♥️ 3         | Have they been in love at all?                                    |
 | ♥️ 4         | Who does your character need to make amends to?                   |
 | ♥️ 5         | Does your character have a lot of friends? If not, why not?       |
-| ...         |                                                                   |
+| ♥️ 6         |                                                                   |
+| ♥️ 7         |                                                                   |
+| ♥️ 8         |                                                                   |
+| ♥️ 9         |                                                                   |
+| ♥️ 10        |                                                                   |
+| ♥️ Jack      | Who is the one friend this character can always rely on?          |
+| ♥️ Queen     | Has this character ever experienced true love?                    |
 | ♥️ King      | Has this character ever saved someone they love from great peril? |
 
 #### ♦️ Diamonds: Wealth and Commerce
-| Card Number | Prompt                                                   |
-| ----------- | -------------------------------------------------------- |
-| ♦️ Ace       | Was this character born into debt or poverty?            |
-| ♦️ 2         | Has this character ever been betrayed over money?        |
-| ♦️ 3         | What types of people does your character look down on?   |
-| ...         |                                                          |
-| ♦️ King      | Did this character ever receive a life-changing fortune? |
+| Card Number | Prompt                                                            |
+| ----------- | ----------------------------------------------------------------- |
+| ♦️ Ace       | This character born into debt or poverty. How did they handle it? |
+| ♦️ 2         | Has this character ever been betrayed over money?                 |
+| ♦️ 3         | What types of people does your character look down on?            |
+| ♦️ 4         |                                                                   |
+| ♦️ 5         |                                                                   |
+| ♦️ 6         |                                                                   |
+| ♦️ 7         |                                                                   |
+| ♦️ 8         |                                                                   |
+| ♦️ 9         |                                                                   |
+| ♦️ 10        |                                                                   |
+| ♦️ Jack      |                                                                   |
+| ♦️ Queen     |                                                                   |
+| ♦️ King      | Did this character ever receive a life-changing fortune?          |
 
 #### ♠️ Spades: Secrets and Mysteries
 | Card Number | Prompt                                                                                                 |
@@ -71,7 +85,8 @@ In this section, you'll introduce the fundamental terms that the reader will enc
 | ♠️ 8         | What is the most selfish thing your character has done?                                                |
 | ♠️ 9         | What would make your character refuse a call to adventure?                                             |
 | ♠️ 10        | What tragedy could they have prevented, but failed to?                                                 |
-| ...         |                                                                                                        |
+| ♠️ Jack      |                                                                                                        |
+| ♠️ Queen     |                                                                                                        |
 | ♠️ King      | What heroic act is this character known for but keeps it a secret?                                     |
 
 #### ♣️ Clubs: Conflict and Power
@@ -82,7 +97,13 @@ In this section, you'll introduce the fundamental terms that the reader will enc
 | ♣️ 3         | Was this character ever wrongly accused and still carries the stain?             |
 | ♣️ 4         | What's the smallest slight that they've never forgiven?                          |
 | ♣️ 5         | What is the one obstacle between where they are and what they want most in life? |
-| ...         |                                                                                  |
+| ♣️ 6         |                                                                                  |
+| ♣️ 7         |                                                                                  |
+| ♣️ 8         |                                                                                  |
+| ♣️ 9         |                                                                                  |
+| ♣️ 10        |                                                                                  |
+| ♣️ Jack      |                                                                                  |
+| ♣️ Queen     |                                                                                  |
 | ♣️ King      | This character unified or led a divided people.                                  |
 |             |
 
