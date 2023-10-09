@@ -69,7 +69,7 @@ In this section, you'll introduce the fundamental terms that the reader will enc
 | ♦️ 9         |                                                                   |
 | ♦️ 10        |                                                                   |
 | ♦️ Jack      |                                                                   |
-| ♦️ Queen     |                                                                   |
+| ♦️ Queen     | What is the most treasured item they own?                         |
 | ♦️ King      | Did this character ever receive a life-changing fortune?          |
 
 #### ♠️ Spades: Secrets and Mysteries
