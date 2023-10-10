@@ -86,7 +86,7 @@ In this section, you'll introduce the fundamental terms that the reader will enc
 | ♠️ 9         | What would make your character refuse a call to adventure?                                             |
 | ♠️ 10        | What tragedy could they have prevented, but failed to?                                                 |
 | ♠️ Jack      |                                                                                                        |
-| ♠️ Queen     |                                                                                                        |
+| ♠️ Queen     | What's the most heartwarming secret this character keeps?                                              |
 | ♠️ King      | What heroic act is this character known for but keeps it a secret?                                     |
 
 #### ♣️ Clubs: Conflict and Power
