@@ -73,21 +73,21 @@ In this section, you'll introduce the fundamental terms that the reader will enc
 | ♦️ King      | Did this character ever receive a life-changing fortune?          |
 
 #### ♠️ Spades: Secrets and Mysteries
-| Card Number | Prompt                                                                                                 |
-| ----------- | ------------------------------------------------------------------------------------------------------ |
-| ♠️ Ace       | This character has dabbled in dark arts or dark esoteric knowledge. What led the character to do this? |
-| ♠️ 2         | What secret would this character kill to protect?                                                      |
-| ♠️ 3         | What is the most traumatic event from their childhood?                                                 |
-| ♠️ 4         | What crime did this character commit that they got away with?                                          |
-| ♠️ 5         | What is their most dangerous vice?                                                                     |
-| ♠️ 6         | What is your character's biggest regret?                                                               |
-| ♠️ 7         | What triggers their mental health issues, if they have any?                                            |
-| ♠️ 8         | What is the most selfish thing your character has done?                                                |
-| ♠️ 9         | What would make your character refuse a call to adventure?                                             |
-| ♠️ 10        | What tragedy could they have prevented, but failed to?                                                 |
-| ♠️ Jack      |                                                                                                        |
-| ♠️ Queen     | What's the most heartwarming secret this character keeps?                                              |
-| ♠️ King      | What heroic act is this character known for but keeps it a secret?                                     |
+| Card Number | Prompt                                                                                                        |
+| ----------- | ------------------------------------------------------------------------------------------------------------- |
+| ♠️ Ace       | This character has dabbled in dark arts or dark esoteric knowledge. What led the character to do this?        |
+| ♠️ 2         | What secret would this character kill to protect?                                                             |
+| ♠️ 3         | What is the most traumatic event from their childhood?                                                        |
+| ♠️ 4         | What crime did this character commit that they got away with?                                                 |
+| ♠️ 5         | What is their most dangerous vice?                                                                            |
+| ♠️ 6         | What is your character's biggest regret?                                                                      |
+| ♠️ 7         | What triggers their mental health issues, if they have any?                                                   |
+| ♠️ 8         | What is the most selfish thing your character has done?                                                       |
+| ♠️ 9         | What would make your character refuse a call to adventure?                                                    |
+| ♠️ 10        | What tragedy could they have prevented, but failed to?                                                        |
+| ♠️ Jack      | Is there a secret friendship or alliance that has had a significant positive impact on this character's life? |
+| ♠️ Queen     | What's the most heartwarming secret this character keeps?                                                     |
+| ♠️ King      | What heroic act is this character known for but keeps it a secret?                                            |
 
 #### ♣️ Clubs: Conflict and Power
 | Card Number | Prompt                                                                           |
