@@ -108,7 +108,8 @@ In this section, you'll introduce the fundamental terms that the reader will enc
 |             |
 
 #### Creating a Safe Zone
-The inn is the only safe zone in this frontier land. Adventurers come here to hang up their swords and get out of their armor. This safe zone is their oasis where they can kick back and lick their wounds before they gear up and head out again.
+In this rugged frontier land, the inn stands as the sole sanctuary for weary adventurers. It's a haven where they can sheathe their swords, shrug off their armor, and find solace. Here, they rejuvenate, tending to their injuries and spirits, before donning their gear once more to face the challenges ahead.
+
 
 #### ♥️ Hearts: Love and Relationships
 | Card Number | Prompt                                                              |
@@ -116,7 +117,15 @@ The inn is the only safe zone in this frontier land. Adventurers come here to ha
 | ♥️ Ace       | What love story began at this inn that the locals still talk about? |
 | ♥️ 2         | Are there any special rooms in the inn for honeymooners or couples? |
 | ♥️ 3         | How did the innkeeper meet their significant other?                 |
-| ...         |                                                                     |
+| ♥️ 4         |                                                                     |
+| ♥️ 5         |                                                                     |
+| ♥️ 6         |                                                                     |
+| ♥️ 7         |                                                                     |
+| ♥️ 8         |                                                                     |
+| ♥️ 9         |                                                                     |
+| ♥️ 10        |                                                                     |
+| ♥️ Jack      |                                                                     |
+| ♥️ Queen     |                                                                     |
 | ♥️ King      | Has a royal ever found love within the walls of this inn?           |
 
 #### ♦️ Diamonds: Wealth and Commerce
@@ -125,7 +134,15 @@ The inn is the only safe zone in this frontier land. Adventurers come here to ha
 | ♦️ Ace       | What is the most expensive item or service offered at the inn?           |
 | ♦️ 2         | Is there a hidden vault where travelers can store their valuables?       |
 | ♦️ 3         | How does the inn attract wealthy patrons?                                |
-| ...         |                                                                          |
+| ♦️ 4         |                                                                          |
+| ♦️ 5         |                                                                          |
+| ♦️ 6         |                                                                          |
+| ♦️ 7         |                                                                          |
+| ♦️ 8         |                                                                          |
+| ♦️ 9         |                                                                          |
+| ♦️ 10        |                                                                          |
+| ♦️ Jack      |                                                                          |
+| ♦️ Queen     |                                                                          |
 | ♦️ King      | Was the inn ever used for a high-stakes game that changed its ownership? |
 
 #### ♠️ Spades: Secrets and Mysteries
@@ -134,7 +151,15 @@ The inn is the only safe zone in this frontier land. Adventurers come here to ha
 | ♠️ Ace       | Are there any rooms in the inn that are always locked?                   |
 | ♠️ 2         | What's the strangest disappearance or event that has ever happened?      |
 | ♠️ 3         | Does the inn have any secret alliances or rivalries?                     |
-| ...         |                                                                          |
+| ♠️ 4         |                                                                          |
+| ♠️ 5         |                                                                          |
+| ♠️ 6         |                                                                          |
+| ♠️ 7         |                                                                          |
+| ♠️ 8         |                                                                          |
+| ♠️ 9         |                                                                          |
+| ♠️ 10        |                                                                          |
+| ♠️ Jack      |                                                                          |
+| ♠️ Queen     |                                                                          |
 | ♠️ King      | What legend or myth about the inn is so outrageous that it must be true? |
 
 #### ♣️ Clubs: Conflict and Power
@@ -143,7 +168,15 @@ The inn is the only safe zone in this frontier land. Adventurers come here to ha
 | ♣️ Ace       | Who holds the most power within the inn's walls?                     |
 | ♣️ 2         | Have there ever been any duels or fights in the inn?                 |
 | ♣️ 3         | Is there a power struggle going on that the guests don't know about? |
-| ...         |                                                                      |
+| ♣️ 4         |                                                                      |
+| ♣️ 5         |                                                                      |
+| ♣️ 6         |                                                                      |
+| ♣️ 7         |                                                                      |
+| ♣️ 8         |                                                                      |
+| ♣️ 9         |                                                                      |
+| ♣️ 10        |                                                                      |
+| ♣️ Jack      |                                                                      |
+| ♣️ Queen     |                                                                      |
 | ♣️ King      | Has the inn ever served as a military stronghold or hideout?         |
 
 ##### **Other buildings**
