@@ -39,21 +39,21 @@ In this section, you'll introduce the fundamental terms that the reader will enc
 - For a neutral or support character, try mixing and matching cards from all suits.
 
 #### ♥️ Hearts: Love and Relationships
-| Card Number | Prompt                                                            |
-| ----------- | ----------------------------------------------------------------- |
-| ♥️ Ace       | What dark secret tore this character's family apart?              |
-| ♥️ 2         | Who did this character lose that they're still mourning?          |
-| ♥️ 3         | Have they been in love at all?                                    |
-| ♥️ 4         | Who does your character need to make amends to?                   |
-| ♥️ 5         | Does your character have a lot of friends? If not, why not?       |
-| ♥️ 6         |                                                                   |
-| ♥️ 7         |                                                                   |
-| ♥️ 8         |                                                                   |
-| ♥️ 9         |                                                                   |
-| ♥️ 10        |                                                                   |
-| ♥️ Jack      | Who is the one friend this character can always rely on?          |
-| ♥️ Queen     | Has this character ever experienced true love?                    |
-| ♥️ King      | Has this character ever saved someone they love from great peril? |
+| Card Number | Prompt                                                              |
+| ----------- | ------------------------------------------------------------------- |
+| ♥️ Ace       | What dark secret tore this character's family apart?                |
+| ♥️ 2         | Who did this character lose that they're still mourning?            |
+| ♥️ 3         | This person has a messy breakup in their past. Why did this hapend? |
+| ♥️ 4         | Who does your character need to make amends to?                     |
+| ♥️ 5         | Does your character have a lot of friends? Who are some of them?    |
+| ♥️ 6         |                                                                     |
+| ♥️ 7         |                                                                     |
+| ♥️ 8         |                                                                     |
+| ♥️ 9         |                                                                     |
+| ♥️ 10        |                                                                     |
+| ♥️ Jack      | Who is the one friend this character can always rely on?            |
+| ♥️ Queen     | Has this character ever experienced true love?                      |
+| ♥️ King      | Has this character ever saved someone they love from great peril?   |
 
 #### ♦️ Diamonds: Wealth and Commerce
 | Card Number | Prompt                                                            |
